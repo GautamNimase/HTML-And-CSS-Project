@@ -31,3 +31,8 @@ Dr. A.P.J. Abdul Kalam (1931–2015) was a visionary Indian scientist and the 11
 
 ## 🗂️ Project Structure
 
+Tribute-Website/
+├── index.html
+├── style.css
+└── Images/
+└── img 1.jpeg
