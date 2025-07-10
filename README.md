@@ -7,7 +7,7 @@ This is a simple and responsive tribute website dedicated to **Dr. A.P.J. Abdul 
 
 ## 🌐 Live Demo
 
-> (project1tributewebsite.netlify.app)
+> project1tributewebsite.netlify.app
 
 ---
 
